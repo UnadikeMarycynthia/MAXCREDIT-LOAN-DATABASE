@@ -29,3 +29,6 @@ Gender and Loan Amount: While the difference isn't drastic, the data suggests th
 The Overall Insight:
 The MaxCredit Loan Database Performance Analysis dashboard paints a picture of a lending institution that heavily considers credit score and age when approving loan amounts, with younger borrowers and those with good credit receiving the most substantial funding. Homeownership status also plays a significant role, with mortgage holders receiving the largest loans. The data further reveals the types of loan intentions that drive higher borrowing amounts (education, venture) and the income levels associated with different educational backgrounds.
 Overall, this report provides valuable insights for MaxCredit to understand their current lending patterns, identify key borrower segments, and assess potential risk factors. By analyzing these relationships, MaxCredit can potentially refine their loan policies, target specific demographics with tailored products, and make more informed decisions to optimize their loan portfolio performance and manage risk effectively. The dashboard highlights the importance of a data-driven approach to understanding and improving lending practices.
+<img width="860" alt="image" src="https://github.com/user-attachments/assets/a9af3d78-9233-4dab-908e-a649794b2408" />
+
+
