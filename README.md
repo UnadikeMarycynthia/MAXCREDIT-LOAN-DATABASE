@@ -13,9 +13,9 @@ Profile borrowers by employment, gender, and age
 
 Analyze credit score distribution
 
-🛠️ Tools/Libraries Used
+Tools/Libraries Used
 Microsoft Excel
-📌 Key Steps and Insights
+Key Steps and Insights
 Loan Distribution by Region & Product
 Revealed hotspots of borrowing and lending issues.
 
